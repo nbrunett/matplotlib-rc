@@ -1,0 +1,32 @@
+### LINES
+lines.linewidth      : 2.0
+
+### FONT
+font.family          : Bitstream Vera Sans
+font.weight          : bold
+font.size            : 22.0
+
+### LaTeX customizations. See http://wiki.scipy.org/Cookbook/Matplotlib/UsingTex
+mathtext.fontset     : custom
+mathtext.rm          : Bitstream Vera Sans
+mathtext.it          : Bitstream Vera Sans:italic
+mathtext.bf          : Bitstream Vera Sans:bold
+
+### AXES
+axes.titleweight     : bold
+axes.labelweight     : bold
+
+### TICKS
+xtick.major.width    : 1.5    # major tick width in points
+xtick.minor.width    : 1.5    # minor tick width in points
+
+ytick.major.width    : 1.5    # major tick width in points
+ytick.minor.width    : 1.5    # minor tick width in points
+
+### Legend
+legend.fontsize      : 20.0
+
+### FIGURE
+# See http://matplotlib.org/api/figure_api.html#matplotlib.figure.Figure
+figure.figsize       : 8, 6
+figure.titleweight   : bold

@@ -1,0 +1,37 @@
+backend              : TkAgg
+
+### PATCHES
+patch.facecolor      : black
+
+### FONT
+font.family          : serif
+font.size            : 12.0
+
+text.usetex           : False
+
+### AXES
+axes.prop_cycle      : cycler('color', ['k', 'ff7f0e', '1f77b4', '2ca02c', 'd62728', '9467bd', '8c564b', 'e377c2', '7f7f7f', 'bcbd22', '17becf'])
+
+### TICKS
+xtick.major.size     : 8      # major tick size in points
+xtick.minor.size     : 4      # minor tick size in points
+xtick.minor.visible  : True
+xtick.top            : True
+xtick.bottom         : True
+xtick.direction      : in
+
+ytick.major.size     : 8      # major tick size in points
+ytick.minor.size     : 4      # minor tick size in points
+ytick.minor.visible  : True
+ytick.left           : True
+ytick.right          : True
+ytick.direction      : in
+
+### Legend
+legend.frameon       : False   # whether or not to draw a frame around legend
+legend.scatterpoints : 1       # number of scatter points
+legend.fontsize      : 12.0
+legend.handletextpad : 0.15     # space between example line/marker and text
+
+### SAVING FIGURES
+savefig.bbox        : tight    # 'tight' or 'standard'
