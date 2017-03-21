@@ -31,7 +31,11 @@ ytick.direction      : in
 legend.frameon       : False   # whether or not to draw a frame around legend
 legend.scatterpoints : 1       # number of scatter points
 legend.fontsize      : 12.0
-legend.handletextpad : 0.15     # space between example line/marker and text
+legend.handletextpad : 0.15    # space between example line/marker and text
+
+### IMAGES
+image.interpolation  : nearest  # see help(imshow) for options
+iamge.origin         : lower    # lower | upper
 
 ### SAVING FIGURES
-savefig.bbox        : tight    # 'tight' or 'standard'
+savefig.bbox         : tight    # 'tight' or 'standard'
