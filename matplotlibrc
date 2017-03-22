@@ -37,5 +37,8 @@ legend.handletextpad : 0.15    # space between example line/marker and text
 image.interpolation  : nearest  # see help(imshow) for options
 image.origin         : lower    # lower | upper
 
+### ERRORBAR PLOTS
+errorbar.capsize     : 2        # length of end cap on error bars in pixels
+
 ### SAVING FIGURES
 savefig.bbox         : tight    # 'tight' or 'standard'
