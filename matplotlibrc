@@ -35,7 +35,7 @@ legend.handletextpad : 0.15    # space between example line/marker and text
 
 ### IMAGES
 image.interpolation  : nearest  # see help(imshow) for options
-iamge.origin         : lower    # lower | upper
+image.origin         : lower    # lower | upper
 
 ### SAVING FIGURES
 savefig.bbox         : tight    # 'tight' or 'standard'
