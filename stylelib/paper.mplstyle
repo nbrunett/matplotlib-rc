@@ -1,2 +1,8 @@
+### FONT
+font.size            : 9.0
+
 ### LaTeX customizations. See http://wiki.scipy.org/Cookbook/Matplotlib/UsingTex
 text.usetex          : True
+
+### Legend
+legend.fontsize      : 9.0
