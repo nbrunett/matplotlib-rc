@@ -1,5 +1,8 @@
 backend              : TkAgg
 
+### LINES
+lines.linewidth       : 1.0
+
 ### PATCHES
 patch.facecolor      : black
 
