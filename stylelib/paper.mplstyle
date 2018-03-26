@@ -6,3 +6,6 @@ text.usetex          : True
 
 ### Legend
 legend.fontsize      : 9.0
+
+### FIGURE
+figure.dpi           : 800      # figure dots per inch
