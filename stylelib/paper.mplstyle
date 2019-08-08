@@ -1,11 +1,11 @@
-### FONT
+### Fonts
 font.size            : 9.0
 
 ### LaTeX customizations. See http://wiki.scipy.org/Cookbook/Matplotlib/UsingTex
 text.usetex          : True
 
-### Legend
+### Legends
 legend.fontsize      : 9.0
 
-### FIGURE
-figure.dpi           : 800      # figure dots per inch
+### Figures
+figure.dpi           : 800 # figure dots per inch

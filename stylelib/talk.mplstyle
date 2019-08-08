@@ -1,9 +1,9 @@
-### LINES
+### Lines
 lines.linewidth       : 2.0
 lines.markeredgewidth : 2.0
 lines.markersize      : 9
 
-### FONT
+### Fonts
 font.family           : Bitstream Vera Sans
 font.weight           : bold
 font.size             : 22.0
@@ -14,24 +14,24 @@ mathtext.rm           : Bitstream Vera Sans
 mathtext.it           : Bitstream Vera Sans:italic
 mathtext.bf           : Bitstream Vera Sans:bold
 
-### AXES
+### Axes
 axes.titleweight      : bold
 axes.labelweight      : bold
 
-### TICKS
-xtick.major.width     : 1.5    # major tick width in points
-xtick.minor.width     : 1.5    # minor tick width in points
+### Ticks
+xtick.major.width     : 1.5 # major tick width in points
+xtick.minor.width     : 1.5 #  minor tick width in points
 
-ytick.major.width     : 1.5    # major tick width in points
-ytick.minor.width     : 1.5    # minor tick width in points
+ytick.major.width     : 1.5 # major tick width in points
+ytick.minor.width     : 1.5 # minor tick width in points
 
-### Legend
+### Legends
 legend.fontsize       : 20.0
 
-### FIGURE
+### Figures
 # See http://matplotlib.org/api/figure_api.html#matplotlib.figure.Figure
 figure.figsize        : 8, 6
 figure.titleweight    : bold
 
-### ERRORBAR PLOTS
-errorbar.capsize      : 4        # length of end cap on error bars in pixels
+### Errorbar plots
+errorbar.capsize      : 4   # length of end cap on error bars in pixels
