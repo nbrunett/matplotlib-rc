@@ -1,5 +1,8 @@
 backend              : macosx
 
+### Figures
+figure.facecolor     : white
+
 ### Lines
 lines.linewidth      : 1.0
 
@@ -14,6 +17,7 @@ text.usetex          : False
 
 ### Axes
 axes.prop_cycle      : cycler('color', ['k', 'ff7f0e', '1f77b4', '2ca02c', 'd62728', '9467bd', '8c564b', 'e377c2', '7f7f7f', 'bcbd22', '17becf'])
+axes.facecolor       : white
 
 ### Ticks
 xtick.major.size     : 8       # major tick size in points
@@ -45,3 +49,4 @@ errorbar.capsize     : 2       # length of end cap on error bars in pixels
 
 ### Saving figures
 savefig.bbox         : tight   # 'tight' or 'standard'
+savefig.facecolor    : white
