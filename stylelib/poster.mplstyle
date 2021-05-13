@@ -4,15 +4,15 @@ lines.markeredgewidth : 2.0
 lines.markersize      : 9
 
 ### FONT
-font.family           : Bitstream Vera Sans
+font.family           : DejaVu Sans
 font.weight           : bold
 font.size             : 22.0
 
 ### LaTeX customizations. See http://wiki.scipy.org/Cookbook/Matplotlib/UsingTex
 mathtext.fontset      : custom
-mathtext.rm           : Bitstream Vera Sans
-mathtext.it           : Bitstream Vera Sans:italic
-mathtext.bf           : Bitstream Vera Sans:bold
+mathtext.rm           : DejaVu Sans
+mathtext.it           : DejaVu Sans:italic
+mathtext.bf           : DejaVu Sans:bold
 
 ### AXES
 axes.titleweight      : bold
